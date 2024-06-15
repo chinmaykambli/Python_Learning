@@ -4,5 +4,5 @@ def len_of_fun(str1):
 
     return str1[0: 2] + str1[-4: ]
 
-print(len_of_fun('My_name_is_khan'))
+print(len_of_fun('Mynameskhan'))
 
